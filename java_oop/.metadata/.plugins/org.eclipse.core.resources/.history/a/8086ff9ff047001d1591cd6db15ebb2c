@@ -1,0 +1,11 @@
+package bankaccount;
+
+public class BankAccountTest {
+
+	public static void main(String[] args) {
+		BankAccount bankAccount1 =new BankAccount();
+//		BankAccount bankAccount2 = new BankAccount(20, 40);
+
+	}
+
+}
