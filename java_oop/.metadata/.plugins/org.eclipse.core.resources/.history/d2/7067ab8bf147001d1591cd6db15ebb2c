@@ -1,0 +1,12 @@
+package bankaccount;
+
+public class BankAccountTest {
+
+	public static void main(String[] args) {
+		BankAccount bankAccount1 =new BankAccount();
+		bankAccount1.depositFunds(20, "savings");
+
+
+	}
+
+}
