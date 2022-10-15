@@ -9,11 +9,11 @@
 <title>Sample Home Page</title>
 </head>
 <body>
-	<h1>Welcome to the <c:out value="${pieName}"/> Pie Page</h1>
+	<h1>Welcome to the Pie Page</h1>
 	
-	<% for(int i = 0; i < 5; i++) { %>
+<%-- 	<% for(int i = 0; i < 5; i++) { %>
 	<p> <%= i %> </p>
-	<% } %>
+	<% } %> --%>
 	
 </body>
 </html>
